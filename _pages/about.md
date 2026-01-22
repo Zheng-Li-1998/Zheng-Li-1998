@@ -4,8 +4,7 @@ title: "Zheng Li"
 author_profile: true
 
 ---
-I am a PhD student in Applied Mathematics at the University of Pavia.
+I got the PhD degree in Applied Mathematics from the Jilin University jointly guided by Prof. Changchun Liu (JLU) and Prof. Ugo Pietro Gianazza (University of Pavia).
 
-My research interests include nonlinear partial differential equations,
-thin film equations, and related analytical and numerical methods.
+My research interests include the regularity properties of weak solutions to elliptic and parabolic equations as well as the elements in De Giorgi Classes.
 
