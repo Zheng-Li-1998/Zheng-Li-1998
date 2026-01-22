@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Zheng Li"
   pronouns         : # example: "she/her"  
-  bio              : "Working on PDEs."
+  bio              : "Working on PDEs"
   location         : "China"
-  employer         : "XX"
+  employer         : "University of Electronic Science and Technology of China(UESTC)"
   uri              : # URL
   email            : "zheng.li@unipv.it" 
 
