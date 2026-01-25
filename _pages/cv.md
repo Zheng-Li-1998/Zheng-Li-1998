@@ -18,50 +18,45 @@ Education
 * B.S. in Mathematics and Applied Mathematics, Jilin University, China (2016.09 – 2020.06)
   *Undergraduate Exchange Program, Department of Mathematics, Michigan State University, USA (2019.08 – 2019.12). Advisor: Prof. Zhengfang Zhou
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Regularity theory for weak solutions of elliptic and parabolic equations
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Degenerate and singular partial differential equations
 
-Publications
+* Maximum principles, Harnack inequalities, Hölder continuity
+
+* De Giorgi classes and related variational methods
+
+
+Publications and Preprints
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+1. Zheng Li, Bin Guo. *A counter-example for Laplacian with data in Orlicz space*. **Applied Mathematics Letters**, 158 (2024).
+
+2. Ugo Gianazza, Zheng Li. *Boundary Regularity for Functions in De Giorgi Classes*. **La Matematica** (2025).
+
+3. Zheng Li, Bin Guo. *The dependence of local regularity of solutions on the integrability of coefficients and nonhomogeneous terms*. arXiv:2402.07219.
+
+4. Simone Ciani, Ugo Gianazza, Zheng Li. *Phragmén–Lindelöf-type theorems for functions in homogeneous De Giorgi classes*. arXiv:2505.17926.
+
+5. Zheng Li. *Logarithmic upper bound for weak subsolutions to the fractional Laplacian equation*. **Annales Fennici Mathematici**, (1) 51 (2026) 17–30.
+
+Academic Activities
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* 19th Summer School on Partial Differential Equations, Harbin Engineering University, China, August 2021
+* 20th Summer School on Partial Differential Equations, Hunan University, China, August 2022
+* 5th–6th National Doctoral Forum on Partial Differential Equations, Jilin University, China, September 2023
+* Annual Mathematics Meeting, University of Pavia, Italy, February 2025
+* Workshop on Degenerate and Singular Partial Differential Equations, University of Vienna, Austria, February 2025
+* CIRM School Course: *Existence and Regularity of Solutions to Non-uniformly Elliptic and Parabolic Equations*, Montecatini Terme, Italy, May 2025
+
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Graduate Academic Scholarship (Ph.D. level)
+* Second-Class Scholarship, Jilin University
+
+Contact Information
 ======
-* Currently signed in to 43 different slack teams
+* **Email**: zheng.li@unipv.it
+* **Previous Email**: lizheng22@mails.jlu.edu.cn
