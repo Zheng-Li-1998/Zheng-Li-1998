@@ -11,8 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied Mathematics, Jilin University, 2025.12 
-* B.S. in Mathematics, Jilin University, 2020.06
+* Ph.D. in Applied Mathematics, Jilin University, China (2022.09 – 2025.12). Adviosr: Prof. Changchun Liu
+  *China Scholarship Council (CSC) Joint Ph.D. Program
+   *Visiting Ph.D. Student, Department of Mathematics, University of Pavia, Italy (2024.09 – 2025.09). Advisor: Prof. Ugo Pietro Gianazza
+* M.S. in Applied Mathematics, Jilin University, China (2020.09 – 2022.09). Advisor: Prof. Bin Guo
+* B.S. in Mathematics and Applied Mathematics, Jilin University, China (2016.09 – 2020.06)
+  *Undergraduate Exchange Program, Department of Mathematics, Michigan State University, USA (2019.08 – 2019.12). Advisor: Prof. Zhengfang Zhou
 
 Work experience
 ======
