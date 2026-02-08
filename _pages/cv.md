@@ -22,8 +22,6 @@ Research Interests
 
 * Regularity theory for weak solutions of elliptic and parabolic equations
 
-
-
 Publications and Preprints
 ======
 1. Zheng Li, Bin Guo. *A counter-example for Laplacian with data in Orlicz space*. **Applied Mathematics Letters**, 158 (2024).
