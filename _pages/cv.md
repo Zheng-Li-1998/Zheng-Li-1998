@@ -22,11 +22,6 @@ Research Interests
 
 * Regularity theory for weak solutions of elliptic and parabolic equations
 
-* Degenerate and singular partial differential equations
-
-* Maximum principles, Harnack inequalities, Hölder continuity
-
-* De Giorgi classes and related variational methods
 
 
 Publications and Preprints
