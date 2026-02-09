@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download the PDF version of my CV [here](/Zheng-Li-1998/files/CV_Zheng_Li.pdf).
+You can download the PDF version of my CV [here](/files/CV_Zheng_Li.pdf).
 
 Education
 ======
