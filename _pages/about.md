@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Zheng Li"
 author_profile: true
