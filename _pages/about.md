@@ -10,6 +10,7 @@ I am currently a postdoctoral researcher at the School of Mathematical Sciences,
 I obtained my PhD degree in Applied Mathematics from Jilin University, under the supervision of Prof. Ugo Pietro Gianazza (Università di Pavia) and Prof. Changchun Liu (Jilin University, administrative advisor).
 
 My research interests include the regularity of weak solutions to elliptic and parabolic equations.
+
 **Contact**
 
 Email: zheng.li@unipv.it
