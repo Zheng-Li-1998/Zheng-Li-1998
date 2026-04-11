@@ -51,5 +51,5 @@ Honors and Awards
 
 Contact Information
 ======
-* **Email**: zheng.li@unipv.it
+* **Email**: zhengli@uestc.edu.cn;  zheng.li@unipv.it
 * **Previous Email**: lizheng22@mails.jlu.edu.cn
